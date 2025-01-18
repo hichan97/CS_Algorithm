@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>PrimeNumber</StartupObject>
+    <StartupObject>PrimeNumberCount</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Algorithms\Count\CountAlgorithm.cs" />
+    <Compile Include="Algorithms\Count\PrimeNumberCount.cs" />
     <Compile Include="Algorithms\PrimeNumber\PrimeNuber.cs" />
     <Compile Include="Algorithms\SUM\ArithmmeticSequence.cs" />
     <Compile Include="Algorithms\SUM\SumAlgorithm.cs" />
