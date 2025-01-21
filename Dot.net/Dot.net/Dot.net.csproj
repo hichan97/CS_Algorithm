@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Average</StartupObject>
+    <StartupObject>ArraySumAverage</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algorithms\Average\ArraySumAverage.cs" />
     <Compile Include="Algorithms\Average\Average.cs" />
     <Compile Include="Algorithms\Count\CountAlgorithm.cs" />
     <Compile Include="Algorithms\Count\PrimeNumberCount.cs" />
