@@ -46,10 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Algorithms\Average\ArraySumAverage.cs" />
-    <Compile Include="Algorithms\Average\Average.cs" />
+    <Compile Include="Algorithms\03_Average\ArraySumAverage.cs" />
+    <Compile Include="Algorithms\03_Average\Average.cs" />
     <Compile Include="Algorithms\Count\CountAlgorithm.cs" />
     <Compile Include="Algorithms\Count\PrimeNumberCount.cs" />
+    <Compile Include="Algorithms\04_Max\MaxAlgorithem.cs" />
     <Compile Include="Algorithms\PrimeNumber\PrimeNuber.cs" />
     <Compile Include="Algorithms\SUM\ArithmmeticSequence.cs" />
     <Compile Include="Algorithms\SUM\SumAlgorithm.cs" />
