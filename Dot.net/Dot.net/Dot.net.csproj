@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ArraySumAverage</StartupObject>
+    <StartupObject>MaxAlgorithem</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,12 +48,12 @@
   <ItemGroup>
     <Compile Include="Algorithms\03_Average\ArraySumAverage.cs" />
     <Compile Include="Algorithms\03_Average\Average.cs" />
-    <Compile Include="Algorithms\Count\CountAlgorithm.cs" />
-    <Compile Include="Algorithms\Count\PrimeNumberCount.cs" />
+    <Compile Include="Algorithms\02_Count\CountAlgorithm.cs" />
+    <Compile Include="Algorithms\02_Count\PrimeNumberCount.cs" />
     <Compile Include="Algorithms\04_Max\MaxAlgorithem.cs" />
-    <Compile Include="Algorithms\PrimeNumber\PrimeNuber.cs" />
-    <Compile Include="Algorithms\SUM\ArithmmeticSequence.cs" />
-    <Compile Include="Algorithms\SUM\SumAlgorithm.cs" />
+    <Compile Include="Algorithms\02_Count\PrimeNumber\PrimeNuber.cs" />
+    <Compile Include="Algorithms\01_SUM\ArithmmeticSequence.cs" />
+    <Compile Include="Algorithms\01_SUM\SumAlgorithm.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
