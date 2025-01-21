@@ -23,7 +23,7 @@ class MinAlgorithm
 
         //[4] Output
         //Console.WriteLine($"짝수 최솟값(식) : {numbers.Min()}");
-        Console.WriteLine($"짝수 최솟값(식) : {numbers.Where(n => n % 2 == 0).Min()}");
+        Console.WriteLine($"짝수 최솟값(식) : {numbers.Where(n => n % 2 == 0).Min()}"); //람다식
         Console.WriteLine($"짝수 최솟값(문) : {min}");
     }
 }
