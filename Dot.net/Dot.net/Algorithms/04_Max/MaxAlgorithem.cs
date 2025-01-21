@@ -24,7 +24,7 @@ class MaxAlgorithem
         }
 
         //[4] Output
-       Console.WriteLine($"최댓값(식) : {numbers.Max()}");
+        //Console.WriteLine($"최댓값(식) : {numbers.Max()}");
         Console.WriteLine($"최댓값(문) : {max}");
     }
 }
